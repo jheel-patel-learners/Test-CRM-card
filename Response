@@ -109,14 +109,14 @@
     "type": "IFRAME",
     "width": 890,
     "height": 748,
-    "uri": "https://example.com/settings-iframe-contents",
+    "uri": "https://share.hsforms.com/1v6w5aGktSr23_j549PHn3w5hc23",
     "label": "Settings"
   },
   "primaryAction": {
     "type": "IFRAME",
     "width": 890,
     "height": 748,
-    "uri": "https://example.com/create-iframe-contents",
+    "uri": "https://share.hsforms.com/1v6w5aGktSr23_j549PHn3w5hc23",
     "label": "Create Ticket"
   }
 }
